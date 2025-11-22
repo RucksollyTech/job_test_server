@@ -80,10 +80,10 @@ this can be started using daphne :
 daphne job_test.asgi:application
 
 
-For this section I also made a next js application to call on this with random values
+For this section I also made a next js application to call on this with random values at https://github.com/RucksollyTech/job_test_client.git
 
 The next js app can be started by running (before that make sure to run npm install)
 
 npm run dev
 
-Expected out put for this section can be seen on the client side next js
+Expected out put for this section can be seen on the client side next js 
